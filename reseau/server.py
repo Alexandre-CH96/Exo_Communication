@@ -3,7 +3,7 @@ import ledArduino
 import dicoMatrice2D
 
 IP = "10.0.0.124"
-PORT = 1111
+PORT = 1120
 socket = network.newServerSocket()
 socket.bind((IP,PORT))
 

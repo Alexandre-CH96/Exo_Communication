@@ -1,7 +1,7 @@
 import network
 
 IP = "10.0.0.124"
-PORT = 1111
+PORT = 1120
 
 while True: 
     socket = network.newClientSocket()
